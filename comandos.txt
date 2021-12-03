@@ -27,3 +27,8 @@ git log: se usa para ver la historia de nuestros archivos, los commits, el usuar
 
 
 carita feliz :)
+
+
+cuando se modifica el archivo y quiere volver agregar otro commit
+se tiene que volver a usar git add
+y despues ya se puede agregar el commit con su comentario
