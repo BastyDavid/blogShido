@@ -10,3 +10,20 @@ cat "nombre del archivo a usar" muestra el contenido del archivo
 
 
 git init sirve para crear el repositorio como tal
+
+git status  visualiza el status del archivo si se ha subido 
+
+git rm  borrar el statu del archivo 
+
+git rm --cached se tiene que volver a usar add
+
+git config: muestra configuraciones de git también podemos usar –list para mostrar la configuración por defecto de nuestro git y si añadimos --show-origin inhales nos muestra las configuraciones guardadas y su ubicación.
+
+git config --global user.name: cambia de manera global el nombre del usuario, seguidamente ponemos entre comillas nuestro nombre.
+
+git config --global user.email: cambia de manera global el email del usuario, seguidamente ponemos entre comillas nuestro nombre.
+
+git log: se usa para ver la historia de nuestros archivos, los commits, el usuario que lo cambió, cuando se realizaron los cambios etc. seguidamente ponemos el nombre de nuestro archivo.
+
+
+carita feliz :)

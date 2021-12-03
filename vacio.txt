@@ -1,0 +1,12 @@
+cd "nombre de directorio" te lleva a esa carpeta siempre y cuando estes en la anterior o sea en la que estas en ese momento
+
+ls lista los archivos que estan en la carpeta
+
+cd .. te devuelve al home
+
+pwd te dice donde estas
+
+cat "nombre del archivo a usar" muestra el contenido del archivo
+
+
+git init sirve para crear el repositorio como tal
