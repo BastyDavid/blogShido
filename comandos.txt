@@ -32,3 +32,9 @@ carita feliz :)
 cuando se modifica el archivo y quiere volver agregar otro commit
 se tiene que volver a usar git add
 y despues ya se puede agregar el commit con su comentario
+
+si añado el comando checkout mas el numero del commit del archivo se modifica el archivo
+a esa version con dicho contenido
+el archivo queda modificado pero se puede volver a la original
+usando git checkout master y el nombre del archivo 
+
