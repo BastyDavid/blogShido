@@ -38,3 +38,6 @@ a esa version con dicho contenido
 el archivo queda modificado pero se puede volver a la original
 usando git checkout master y el nombre del archivo 
 
+
+git commit -am hace el commit de los cambios
+ solo funciona con archivo que ya se le habia dado add anteriormente
