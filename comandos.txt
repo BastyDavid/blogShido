@@ -47,4 +47,10 @@ git branch nombre crea otra rama que el head apuntara al master y la cabecera
 
 git checkout nombre de la rama cambia a esa rama 
 
+para subir un archivo a git
 
+tenemos que usar el comando git remote add origin y pegamos el enlace de git
+
+al usar el comando git remote vemos lo que ha pasado 
+y al usar git remote -v vemos los enlaces tanto del fetch como el push 
+para subirlo usamos git push origin master
