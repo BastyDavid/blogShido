@@ -56,6 +56,16 @@ y al usar git remote -v vemos los enlaces tanto del fetch como el push
 para subirlo usamos git push origin master
 
 
-git pull origin master
+git pull origin master vamos a traer del origen hasta el master
 
 git pull origin master --alow-unrelated-histories permite fusionar 
+
+git remote origin siendo origin un standar manejado en la industria pero podia ser cualquiera 
+
+git remote -v veo los links de los repositorios
+
+git remote set-url + nombre del origen del remote y pegamos el enlace
+
+ antes de hacer el commit es traerse la ultima version del servidor usando pull
+git pull para traer la ultima version del repositorio remoto 
+git pull origin master
