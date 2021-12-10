@@ -69,3 +69,11 @@ git remote set-url + nombre del origen del remote y pegamos el enlace
  antes de hacer el commit es traerse la ultima version del servidor usando pull
 git pull para traer la ultima version del repositorio remoto 
 git pull origin master
+
+crear tag
+
+
+git log --all --graph --decorate --oneline para graficar 
+
+ git alias
+git tag -a "nombre del tag"  -m id del tag 
